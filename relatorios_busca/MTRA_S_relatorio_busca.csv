@@ -1,0 +1,826 @@
+Proteína,Organismo,PubChemID,Status,Fonte
+"Chain A, MAJOR APURINIC/APYRIMIDINIC ENDONUCLEASE",Homo sapiens,1DE9_A,encontrada,NCBI
+"Chain A, DIHYDROFOLATE REDUCTASE",Escherichia coli,1DHI_A,encontrada,NCBI
+"Chain B, DIHYDROFOLATE REDUCTASE",Escherichia coli,1DHI_B,encontrada,NCBI
+"Chain A, DIHYDROFOLATE REDUCTASE",Escherichia coli,1DHJ_A,encontrada,NCBI
+"Chain B, DIHYDROFOLATE REDUCTASE",Escherichia coli,1DHJ_B,encontrada,NCBI
+"Chain A, TYROSYL-DNA PHOSPHODIESTERASE",Homo sapiens,1JY1_A,encontrada,NCBI
+"Chain E, Fibrin beta chain",Homo sapiens,1N8E_E,encontrada,NCBI
+"Chain A, Breast cancer type 1 susceptibility protein",Homo sapiens,1OQA_A,encontrada,NCBI
+"Chain A, Genome polyprotein",Human poliovirus,1RA7_A,encontrada,NCBI
+"Chain A, DIHYDROFOLATE REDUCTASE",Escherichia coli,2DRC_A,encontrada,NCBI
+"Chain B, DIHYDROFOLATE REDUCTASE",Escherichia coli,2DRC_B,encontrada,NCBI
+"Chain A, Beta-lactamase",Escherichia coli,2HDS_A,encontrada,NCBI
+"Chain A, Putative fructose-1,6-bisphosphate aldolase",Giardia intestinalis,2ISV_A,encontrada,NCBI
+"Chain A, HADH2 protein",Homo sapiens,2O23_A,encontrada,NCBI
+"Chain B, HADH2 protein",Homo sapiens,2O23_B,encontrada,NCBI
+"Chain A, Neuropilin-1",Homo sapiens,2QQI_A,encontrada,NCBI
+"Chain A, JmjC domain-containing histone demethylation protein 3A",Homo sapiens,2QQS_A,encontrada,NCBI
+"Chain A, BCL-2-RELATED PROTEIN A1",Homo sapiens,2VM6_A,encontrada,NCBI
+"Chain A, 2-oxoglutarate Oxygenase",Homo sapiens,2W2I_A,encontrada,NCBI
+"Chain A, ATP-DEPENDENT DNA HELICASE Q1",Homo sapiens,2WWY_A,encontrada,NCBI
+"Chain A, RNA-directed RNA polymerase NS5",Dengue virus,3EVG_A,encontrada,NCBI
+"Chain A, Ferritin light chain",Equus caballus,3F32_A,encontrada,NCBI
+"Chain A, Cruzipain",Trypanosoma cruzi,3I06_A,encontrada,NCBI
+"Chain B, Interleukin-1 receptor-like 1",Homo sapiens,4KC3_B,encontrada,NCBI
+Leukotriene C4 synthase,Cavia porcellus,A6XA80,encontrada,NCBI
+Luciferase,Photinus pyralis,AAA29795,encontrada,NCBI
+"citrate synthase 2, partial",Saccharomyces cerevisiae,AAA34498,encontrada,NCBI
+"T cell receptor, partial",Homo sapiens,AAA51534,encontrada,NCBI
+acid sphingomyelinase,Homo sapiens,AAA58377,encontrada,NCBI
+endonuclease IV,Escherichia coli,AAA60529,encontrada,NCBI
+acetylcholinesterase,Homo sapiens,AAA68151,encontrada,NCBI
+dopamine D1 receptor,Homo sapiens,AAB26273,encontrada,NCBI
+Nrf2,Homo sapiens,AAB32188,encontrada,NCBI
+PAX8,Homo sapiens,AAB34216,encontrada,NCBI
+DNA polymerase,Vaccinia virus,AAB59829,encontrada,NCBI
+"glp-1 receptor, partial",Homo sapiens,AAB64013,encontrada,NCBI
+"TCRAV4S1, partial",Homo sapiens,AAB69001,encontrada,NCBI
+aryl hydrocarbon receptor nuclear translocator,Homo sapiens,AAC03365,encontrada,NCBI
+CtBP interacting protein CtIP,Homo sapiens,AAC14371,encontrada,NCBI
+thioredoxin reductase,Rattus norvegicus,AAC35244,encontrada,NCBI
+BRCA1,Homo sapiens,AAC37594,encontrada,NCBI
+RGS12,Homo sapiens,AAC39835,encontrada,NCBI
+ClpP,Bacillus subtilis,AAC46381,encontrada,NCBI
+SUMO-1,Homo sapiens,AAC50996,encontrada,NCBI
+ADAM10,Homo sapiens,AAC51766,encontrada,NCBI
+"15-lipoxygenase, partial",Homo sapiens,AAC52118,encontrada,NCBI
+ORF 73,Human herpesvirus,AAC57158,encontrada,NCBI
+WRN,Homo sapiens,AAC63361,encontrada,NCBI
+"integrase, partial",Human immunodeficiency,AAC83551,encontrada,NCBI
+"90-kda heat shock protein beta HSP90 beta, partial",Homo sapiens,AAD14062,encontrada,NCBI
+thioredoxin peroxidase,Schistosoma mansoni,AAD17299,encontrada,NCBI
+ubiquitin C-terminal hydrolase UCH37,Homo sapiens,AAD31528,encontrada,NCBI
+pregnane X receptor,Rattus norvegicus,AAD47214,encontrada,NCBI
+SUMO-1-specific protease,Homo sapiens,AAF04852,encontrada,NCBI
+lens epithelium-derived growth factor p75,Homo sapiens,AAF25870,encontrada,NCBI
+phosphopantetheinyl transferase,Bacillus subtilis,AAG24257,encontrada,NCBI
+Kcnk3 channel,Homo sapiens,AAG29340,encontrada,NCBI
+hypoxia-inducible factor 1 alpha subunit,Homo sapiens,AAG43026,encontrada,NCBI
+Phosphogluconate dehydrogenase,Homo sapiens,AAH00368,encontrada,NCBI
+"PPP5C protein, partial",Homo sapiens,AAH00750,encontrada,NCBI
+"Arrestin, beta 1",Homo sapiens,AAH03636,encontrada,NCBI
+"Caspase 6, apoptosis-related cysteine peptidase",Homo sapiens,AAH04460,encontrada,NCBI
+PSMD14 protein,Homo sapiens,AAH09524,encontrada,NCBI
+CDC25B protein,Homo sapiens,AAH09953,encontrada,NCBI
+"Prolyl 4-hydroxylase, beta polypeptide",Homo sapiens,AAH10859,encontrada,NCBI
+RAR-related orphan receptor gamma,Mus musculus,AAH14804,encontrada,NCBI
+SMAD family member 2,Homo sapiens,AAH14840,encontrada,NCBI
+"ATAD5 protein, partial",Homo sapiens,AAH15051,encontrada,NCBI
+Fumarate hydratase,Homo sapiens,AAH17444,encontrada,NCBI
+"USP1 protein, partial",Homo sapiens,AAH18745,encontrada,NCBI
+"PRMT1 protein, partial",Homo sapiens,AAH19268,encontrada,NCBI
+Dopamine receptor D2,Homo sapiens,AAH21195,encontrada,NCBI
+"Cyclin-dependent kinase 5, regulatory subunit 1 (p35)",Homo sapiens,AAH26347,encontrada,NCBI
+ERAP1 protein,Homo sapiens,AAH30775,encontrada,NCBI
+Fam108b protein,Mus musculus,AAH32261,encontrada,NCBI
+Methyl-CpG binding domain protein 2,Homo sapiens,AAH32638,encontrada,NCBI
+"NFKB1 protein, partial",Homo sapiens,AAH33210,encontrada,NCBI
+GALC protein,Homo sapiens,AAH36518,encontrada,NCBI
+GLS protein,Homo sapiens,AAH38507,encontrada,NCBI
+SMAD family member 3,Homo sapiens,AAH50743,encontrada,NCBI
+Microphthalmia-associated transcription factor,Homo sapiens,AAH65243,encontrada,NCBI
+MSRA protein,Bos taurus,AAI02981,encontrada,NCBI
+Myeloid cell leukemia sequence 1 (BCL2-related),Homo sapiens,AAI07736,encontrada,NCBI
+TDP1 protein,Homo sapiens,AAI07878,encontrada,NCBI
+GLI family zinc finger 3,Homo sapiens,AAI13617,encontrada,NCBI
+Microtubule-associated protein tau,Homo sapiens,AAI14949,encontrada,NCBI
+TSHR protein,Homo sapiens,AAI27629,encontrada,NCBI
+Estrogen receptor 1,Homo sapiens,AAI28575,encontrada,NCBI
+SUMO1/sentrin specific peptidase 7,Homo sapiens,AAI29989,encontrada,NCBI
+Thrombopoietin,Homo sapiens,AAI30323,encontrada,NCBI
+"alkaline phosphatase, intestinal",Homo sapiens,AAI32679,encontrada,NCBI
+AR protein,Homo sapiens,AAI32976,encontrada,NCBI
+"Phospholipase C, gamma 1",Homo sapiens,AAI36467,encontrada,NCBI
+Apoptotic peptidase activating factor 1,Homo sapiens,AAI36532,encontrada,NCBI
+"Phospholipase C, beta 3 (phosphatidylinositol-specific)",Homo sapiens,AAI42682,encontrada,NCBI
+NLRP3 protein,Homo sapiens,AAI43360,encontrada,NCBI
+Prolyl endopeptidase-like,Homo sapiens,AAI51237,encontrada,NCBI
+Smad3,Homo sapiens,AAL68976,encontrada,NCBI
+"apical membrane antigen 1, AMA1",Plasmodium falciparum,AAN35928,encontrada,NCBI
+"DNA polymerase III, partial",Bacillus subtilis,AAP13898,encontrada,NCBI
+"caspase 7, apoptosis-related cysteine protease",Homo sapiens,AAP35329,encontrada,NCBI
+"aldehyde dehydrogenase 1 family, member A1",Homo sapiens,AAP35567,encontrada,NCBI
+PINK1,Homo sapiens,AAQ89316,encontrada,NCBI
+thyroid stimulating hormone receptor,Homo sapiens,AAR07906,encontrada,NCBI
+corticotropin-releasing hormone receptor 2,Homo sapiens,AAR18078,encontrada,NCBI
+estrogen receptor 2 (ER beta),Homo sapiens,AAV31779,encontrada,NCBI
+"hypothetical protein, conserved",Trypanosoma brucei,AAX80043,encontrada,NCBI
+"nuclear receptor subfamily 1, group I, member 3",Homo sapiens,AAY56401,encontrada,NCBI
+progesterone receptor,Homo sapiens,ABB72139,encontrada,NCBI
+"core protein, partial",Hepacivirus C,ABC47431,encontrada,NCBI
+regulator of G-protein signaling 4,Homo sapiens,ABC94591,encontrada,NCBI
+cystic fibrosis transmembrane conductance regulator ATP-binding cassette sub-family C member 7,Homo sapiens,ABD72211,encontrada,NCBI
+"isocitrate dehydrogenase 1, partial",Homo sapiens,ABD77215,encontrada,NCBI
+lactate dehydrogenase,Plasmodium falciparum,ABH03417,encontrada,NCBI
+cytochrome P450 family 3 subfamily A polypeptide 4,Homo sapiens,ABI96208,encontrada,NCBI
+"NS3, partial",Hepacivirus C,ABN45876,encontrada,NCBI
+potassium voltage-gated channel subfamily H member 2,Homo sapiens,ABQ01243,encontrada,NCBI
+EWS/FLI fusion protein,Homo sapiens,ACA62796,encontrada,NCBI
+nonstructural protein 1 (Influenza A virus (A/WSN/1933(H1N1))),Influenza A,ACF54603,encontrada,NCBI
+MAS-related GPR member X1,Homo sapiens,ACG60652,encontrada,NCBI
+nonstructural protein 1 (Influenza A virus (A/California/07/2009(H1N1))),Influenza A,ACP44172,encontrada,NCBI
+glucocorticoid receptor [Homo sapiens],Homo sapiens,ADP91253,encontrada,NCBI
+LANA,Human gammaherpesvirus,ADQ57959,encontrada,NCBI
+retinoic acid nuclear receptor alpha variant 1,Homo sapiens,ADZ17337,encontrada,NCBI
+retinoid X nuclear receptor alpha,Homo sapiens,ADZ17354,encontrada,NCBI
+estrogen-related nuclear receptor alpha,Homo sapiens,ADZ17378,encontrada,NCBI
+farnesoid X nuclear receptor,Homo sapiens,ADZ17382,encontrada,NCBI
+pregnane X nuclear receptor,Homo sapiens,ADZ17384,encontrada,NCBI
+"potassium voltage-gated channel subfamily H member 2 isoform a, partial",Homo sapiens,AEL63844,encontrada,NCBI
+estrogen nuclear receptor alpha,Homo sapiens,AEP43755,encontrada,NCBI
+polyprotein,Zika virus,ASK51714,encontrada,NCBI
+67.9K protein,Vaccinia virus,BAA01847,encontrada,NCBI
+glucocerebrosidase,Homo sapiens,BAA02545,encontrada,NCBI
+luciferase,Photuris pensylvanica,BAA05005,encontrada,NCBI
+Parkin,Homo sapiens,BAA25751,encontrada,NCBI
+Gli1,Mus musculus,BAA85004,encontrada,NCBI
+putative alpha-glucosidase,Oryza sativa,BAD45913,encontrada,NCBI
+girdin,Homo sapiens,BAE44387,encontrada,NCBI
+TRIC,Homo sapiens,BAE54513,encontrada,NCBI
+toll-like receptor 9,Homo sapiens,BAG55070,encontrada,NCBI
+peroxisome proliferator-activated receptor delta,Homo sapiens,BAH02282,encontrada,NCBI
+peroxisome proliferator activated receptor gamma,Homo sapiens,BAH02283,encontrada,NCBI
+"vitamin D (1,25- dihydroxyvitamin D3) receptor",Homo sapiens,BAH02291,encontrada,NCBI
+photoreceptor-specific nuclear receptor,Homo sapiens,BAH02301,encontrada,NCBI
+arylsulfatase A,Homo sapiens,BAH11167,encontrada,NCBI
+Metallo-beta-lactamase type 2,Klebsiella pneumoniae,C7C422,encontrada,NCBI
+alpha-galactosidase,Homo sapiens,CAA29232,encontrada,NCBI
+corticotropin releasing factor-binding protein,Homo sapiens,CAA41086,encontrada,NCBI
+cdk2,Homo sapiens,CAA43985,encontrada,NCBI
+cardiac alpha tropomyosin,Sus scrofa,CAA46986,encontrada,NCBI
+cyclin A,Homo sapiens,CAA48375,encontrada,NCBI
+pyruvate kinase,Leishmania mexicana,CAA52898,encontrada,NCBI
+six1,Homo sapiens,CAA62974,encontrada,NCBI
+bcl-xL,Homo sapiens,CAA80661,encontrada,NCBI
+LAP4,Saccharomyces cerevisiae,CAA81943,encontrada,NCBI
+RPL19A,Saccharomyces cerevisiae,CAA84846,encontrada,NCBI
+MEP2,Saccharomyces cerevisiae,CAA96025,encontrada,NCBI
+FATTY-ACID-CoA LIGASE FADD28 (FATTY-ACID-CoA SYNTHETASE) (FATTY-ACID-CoA SYNTHASE),Mycobacterium tuberculosis,CAB06100,encontrada,NCBI
+lysophospholipase II,Homo sapiens,CAB40158,encontrada,NCBI
+glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,Plasmodium berghei,CAC24715,encontrada,NCBI
+caspase-3,Homo sapiens,CAC88866,encontrada,NCBI
+EBNA-1 protein [Human herpesvirus 4],human gammaherpesvirus,CAD53427,encontrada,NCBI
+LMP1 [Human herpesvirus 4],human gammaherpesvirus,CAD53472,encontrada,NCBI
+"S100A4, partial",Homo sapiens,CAG29341,encontrada,NCBI
+LARGE,Homo sapiens,CAG30396,encontrada,NCBI
+CDK5,Homo sapiens,CAG33322,encontrada,NCBI
+IDH1,Homo sapiens,CAG38738,encontrada,NCBI
+"caspase 7, apoptosis-related cysteine peptidase",Homo sapiens,CAI12638,encontrada,NCBI
+cathepsin L1,Homo sapiens,CAI16307,encontrada,NCBI
+DNA topoisomerase I,Yersinia pestis,CAL20848,encontrada,NCBI
+euchromatic histone-lysine N-methyltransferase 2,Homo sapiens,CAQ07474,encontrada,NCBI
+"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",Homo sapiens,CAQ08732,encontrada,NCBI
+bioA,Mycobacterium tuberculosis,CCE37082,encontrada,NCBI
+priA,Klebsiella pneumoniae,CDO16358,encontrada,NCBI
+ssb,Klebsiella pneumoniae,CDO16711,encontrada,NCBI
+TPA: protein transporter TIM10,Saccharomyces cerevisiae,DAA06693,encontrada,NCBI
+TPA: protein transporter TIM23,Saccharomyces cerevisiae,DAA10558,encontrada,NCBI
+aryl hydrocarbon receptor,Homo sapiens,EAL24281,encontrada,NCBI
+"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2, isoform CRA_a",Homo sapiens,EAW58811,encontrada,NCBI
+"phospholipase A2, group III",Homo sapiens,EAW59941,encontrada,NCBI
+"cytochrome P450, family 19, subfamily A, polypeptide 1, isoform CRA_a",Homo sapiens,EAW77416,encontrada,NCBI
+thyroid stimulating hormone receptor,Homo sapiens,EAW81333,encontrada,NCBI
+"caspase recruitment domain family, member 15",Homo sapiens,EAW82767,encontrada,NCBI
+activating transcription factor 6,Homo sapiens,EAW90694,encontrada,NCBI
+thyrotropin-releasing hormone receptor,Homo sapiens,EAW91923,encontrada,NCBI
+"cytochrome P450, family 1, subfamily A, polypeptide 2",Homo sapiens,EAW99313,encontrada,NCBI
+"nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105), isoform CRA_a",Homo sapiens,EAX06134,encontrada,NCBI
+v-jun sarcoma virus 17 oncogene homolog (avian),Homo sapiens,EAX06628,encontrada,NCBI
+"nuclear receptor subfamily 1, group I, member 2",Rattus norvegicus,EDM11231,encontrada,NCBI
+Histone H2A.x,Cricetulus griseus,EGV99105,encontrada,NCBI
+Caspase-7,Cricetulus griseus,EGW14942,encontrada,NCBI
+hypothetical protein G057_19877,Klebsiella pneumoniae,EMB09144,encontrada,NCBI
+beta-2 adrenergic receptor,Homo sapiens,NP_000015,encontrada,NCBI
+Bloom syndrome protein isoform 1,Homo sapiens,NP_000048,encontrada,NCBI
+cytochrome P450 2D6 isoform 1,Homo sapiens,NP_000097,encontrada,NCBI
+lysosomal alpha-glucosidase preproprotein,Homo sapiens,NP_000143,encontrada,NCBI
+galactokinase,Homo sapiens,NP_000145,encontrada,NCBI
+hexokinase-4 isoform 1,Homo sapiens,NP_000153,encontrada,NCBI
+menin isoform 1,Homo sapiens,NP_000235,encontrada,NCBI
+NPC intracellular cholesterol transporter 1 precursor,Homo sapiens,NP_000262,encontrada,NCBI
+peripheral myelin protein 22 isoform 1,Homo sapiens,NP_000295,encontrada,NCBI
+major prion protein preproprotein Prp precursor,Homo sapiens,NP_000302,encontrada,NCBI
+"troponin I, cardiac muscle",Homo sapiens,NP_000354,encontrada,NCBI
+"platelet-activating factor acetylhydrolase 2, cytoplasmic",Homo sapiens,NP_000428,encontrada,NCBI
+E-selectin precursor,Homo sapiens,NP_000441,encontrada,NCBI
+nuclear receptor subfamily 0 group B member 1,Homo sapiens,NP_000466,encontrada,NCBI
+cystic fibrosis transmembrane conductance regulator,Homo sapiens,NP_000483,encontrada,NCBI
+cellular tumor antigen p53 isoform a,Homo sapiens,NP_000537,encontrada,NCBI
+interleukin-1 beta proprotein,Homo sapiens,NP_000567,encontrada,NCBI
+interferon gamma precursor,Homo sapiens,NP_000610,encontrada,NCBI
+polyunsaturated fatty acid lipoxygenase ALOX12,Homo sapiens,NP_000688,encontrada,NCBI
+vasopressin V1a receptor,Homo sapiens,NP_000697,encontrada,NCBI
+muscarinic acetylcholine receptor M1,Homo sapiens,NP_000729,encontrada,NCBI
+muscarinic acetylcholine receptor M4,Homo sapiens,NP_000732,encontrada,NCBI
+cytochrome P450 1A2,Homo sapiens,NP_000752,encontrada,NCBI
+cytochrome P450 2C19 precursor,Homo sapiens,NP_000760,encontrada,NCBI
+cytochrome P450 2C9 precursor,Homo sapiens,NP_000762,encontrada,NCBI
+dihydrofolate reductase isoform 1,Homo sapiens,NP_000782,encontrada,NCBI
+D(1A) dopamine receptor,Homo sapiens,NP_000785,encontrada,NCBI
+D(2) dopamine receptor isoform long,Homo sapiens,NP_000786,encontrada,NCBI
+15-hydroxyprostaglandin dehydrogenase [NAD(+)] isoform 1,Homo sapiens,NP_000851,encontrada,NCBI
+integrin alpha-4 isoform 1 preproprotein,Homo sapiens,NP_000876,encontrada,NCBI
+atrial natriuretic peptide receptor 1 precursor,Homo sapiens,NP_000897,encontrada,NCBI
+delta-type opioid receptor,Homo sapiens,NP_000902,encontrada,NCBI
+mu-type opioid receptor isoform MOR-1,Homo sapiens,NP_000905,encontrada,NCBI
+oxytocin receptor,Homo sapiens,NP_000907,encontrada,NCBI
+ATP-dependent translocase ABCB1 isoform 2,Homo sapiens,NP_000918,encontrada,NCBI
+prostaglandin E2 receptor EP2 subtype,Homo sapiens,NP_000947,encontrada,NCBI
+"troponin T, cardiac muscle isoform 3",Homo sapiens,NP_001001431,encontrada,NCBI
+serine/threonine-protein phosphatase PP1-alpha catalytic subunit isoform 3,Homo sapiens,NP_001008709,encontrada,NCBI
+perilipin-5,Homo sapiens,NP_001013728,encontrada,NCBI
+Golgi-associated PDZ and coiled-coil motif-containing protein isoform b,Homo sapiens,NP_001017408,encontrada,NCBI
+vitamin D3 receptor isoform VDRA,Homo sapiens,NP_001017535,encontrada,NCBI
+glucocorticoid receptor isoform gamma,Homo sapiens,NP_001019265,encontrada,NCBI
+cytochrome P450 2D6 isoform 2,Homo sapiens,NP_001020332,encontrada,NCBI
+Nuclear hormone receptor family member daf-12,Caenorhabditis elegans,NP_001024547,encontrada,NCBI
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4B isoform 1",Homo sapiens,NP_001032418,encontrada,NCBI
+tyrosine-protein phosphatase non-receptor type substrate 1 isoform 1 precursor,Homo sapiens,NP_001035111,encontrada,NCBI
+E3 ubiquitin-protein ligase UHRF1 isoform 1,Homo sapiens,NP_001041666,encontrada,NCBI
+cAMP-dependent protein kinase type I-alpha regulatory subunit,Bos taurus,NP_001069826,encontrada,NCBI
+intestinal alkaline phosphatase precursor,Mus musculus,NP_001074551,encontrada,NCBI
+chromobox protein homolog 1,Homo sapiens,NP_001120700,encontrada,NCBI
+thyroid hormone receptor beta isoform a,Homo sapiens,NP_001121649,encontrada,NCBI
+transcriptional coactivator YAP1 isoform 1,Homo sapiens,NP_001123617,encontrada,NCBI
+DNA repair and recombination protein RAD54-like isoform 1,Homo sapiens,NP_001136020,encontrada,NCBI
+nuclear factor erythroid 2-related factor 2 isoform 2,Homo sapiens,NP_001138884,encontrada,NCBI
+platelet-activating factor acetylhydrolase IB subunit alpha1,Homo sapiens,NP_001139412,encontrada,NCBI
+platelet-activating factor acetylhydrolase precursor,Homo sapiens,NP_001161829,encontrada,NCBI
+transcription activator BRG1 isoform 1,Mus musculus,NP_001167549,encontrada,NCBI
+parathyroid hormone/parathyroid hormone-related peptide receptor precursor,Homo sapiens,NP_001171673,encontrada,NCBI
+platelet-activating factor acetylhydrolase IB subunit alpha2 isoform b,Homo sapiens,NP_001171675,encontrada,NCBI
+potassium voltage-gated channel subfamily H member 2 isoform d,Homo sapiens,NP_001191727,encontrada,NCBI
+reduced folate transporter isoform 3,Homo sapiens,NP_001192136,encontrada,NCBI
+transcriptional regulator ERG isoform 3,Homo sapiens,NP_001230357,encontrada,NCBI
+caspase-3,Cricetulus griseus,NP_001230975,encontrada,NCBI
+"arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1 isoform 2",Homo sapiens,NP_001234925,encontrada,NCBI
+thyroid hormone receptor beta isoform 2,Rattus norvegicus,NP_001257783,encontrada,NCBI
+histone deacetylase 9 isoform 3,Homo sapiens,NP_001308829,encontrada,NCBI
+microphthalmia-associated transcription factor isoform 9,Homo sapiens,NP_001341533,encontrada,NCBI
+DNA (cytosine-5)-methyltransferase 1 isoform b,Homo sapiens,NP_001370,encontrada,NCBI
+endothelial PAS domain-containing protein 1,Homo sapiens,NP_001421,encontrada,NCBI
+glucokinase regulatory protein,Homo sapiens,NP_001477,encontrada,NCBI
+orexin/Hypocretin receptor type 1 [Homo sapiens],Homo sapiens,NP_001516,encontrada,NCBI
+heat shock protein beta-1,Homo sapiens,NP_001531,encontrada,NCBI
+beta-adrenergic receptor kinase 1,Homo sapiens,NP_001610,encontrada,NCBI
+aryl hydrocarbon receptor,Homo sapiens,NP_001612,encontrada,NCBI
+leukocyte surface antigen CD47 isoform 1 precursor,Homo sapiens,NP_001768,encontrada,NCBI
+glyceraldehyde-3-phosphate dehydrogenase isoform 1,Homo sapiens,NP_002037,encontrada,NCBI
+guanine nucleotide-binding protein G(i) subunit alpha-1 isoform 1,Homo sapiens,NP_002060,encontrada,NCBI
+huntingtin isoform 2,Homo sapiens,NP_002102,encontrada,NCBI
+G protein-activated inward rectifier potassium channel 2,Homo sapiens,NP_002231,encontrada,NCBI
+importin subunit beta-1 isoform 1,Homo sapiens,NP_002256,encontrada,NCBI
+E3 ubiquitin-protein ligase Mdm2 isoform a,Homo sapiens,NP_002383,encontrada,NCBI
+protein Mdm4 isoform 1,Homo sapiens,NP_002384,encontrada,NCBI
+neurotensin receptor type 1,Homo sapiens,NP_002522,encontrada,NCBI
+polyadenylate-binding protein 1,Homo sapiens,NP_002559,encontrada,NCBI
+DNA polymerase beta,Homo sapiens,NP_002681,encontrada,NCBI
+cAMP-dependent protein kinase type II-beta regulatory subunit,Homo sapiens,NP_002727,encontrada,NCBI
+mitogen-activated protein kinase 1,Homo sapiens,NP_002736,encontrada,NCBI
+disintegrin and metalloproteinase domain-containing protein 17 isoform 1 preproprotein,Homo sapiens,NP_003174,encontrada,NCBI
+"troponin C, slow skeletal and cardiac muscles",Homo sapiens,NP_003271,encontrada,NCBI
+thyrotropin-releasing hormone receptor,Homo sapiens,NP_003292,encontrada,NCBI
+ubiquitin-conjugating enzyme E2 N,Homo sapiens,NP_003339,encontrada,NCBI
+galanin receptor type 3,Homo sapiens,NP_003605,encontrada,NCBI
+nuclear receptor coactivator 1 isoform 1 [Homo sapiens],Homo sapiens,NP_003734,encontrada,NCBI
+receptor-interacting serine/threonine-protein kinase 2 isoform 1,Homo sapiens,NP_003812,encontrada,NCBI
+nuclear receptor subfamily 5 group A member 2 isoform 2,Homo sapiens,NP_003813,encontrada,NCBI
+tumor necrosis factor receptor superfamily member 10B isoform 1 precursor,Homo sapiens,NP_003833,encontrada,NCBI
+histone deacetylase 3 isoform 2,Homo sapiens,NP_003874,encontrada,NCBI
+NEDD8-activating enzyme E1 regulatory subunit isoform a,Homo sapiens,NP_003896,encontrada,NCBI
+NEDD8-conjugating enzyme Ubc12,Homo sapiens,NP_003960,encontrada,NCBI
+atrial natriuretic peptide receptor 2 precursor,Homo sapiens,NP_003986,encontrada,NCBI
+nuclear factor NF-kappa-B p105 subunit isoform 1,Homo sapiens,NP_003989,encontrada,NCBI
+fatty acid synthase,Homo sapiens,NP_004095,encontrada,NCBI
+flap endonuclease 1,Homo sapiens,NP_004102,encontrada,NCBI
+ubiquitin carboxyl-terminal hydrolase 2 isoform a,Homo sapiens,NP_004196,encontrada,NCBI
+ras-related protein Rab-9A,Homo sapiens,NP_004242,encontrada,NCBI
+ras and Rab interactor 1 isoform 1,Homo sapiens,NP_004283,encontrada,NCBI
+caspase-3 isoform a preproprotein,Homo sapiens,NP_004337,encontrada,NCBI
+C-C chemokine receptor type 6,Homo sapiens,NP_004358,encontrada,NCBI
+protein AF-9 isoform a,Homo sapiens,NP_004520,encontrada,NCBI
+glutathione S-transferase omega-1 isoform 1,Homo sapiens,NP_004823,encontrada,NCBI
+G-protein coupled receptor 183,Homo sapiens,NP_004942,encontrada,NCBI
+serine/threonine-protein kinase mTOR isoform 1,Homo sapiens,NP_004949,encontrada,NCBI
+steroidogenic factor 1,Homo sapiens,NP_004950,encontrada,NCBI
+insulin-degrading enzyme isoform 1,Homo sapiens,NP_004960,encontrada,NCBI
+matrix metalloproteinase-14 preproprotein,Homo sapiens,NP_004986,encontrada,NCBI
+serine/threonine-protein kinase PLK1,Homo sapiens,NP_005021,encontrada,NCBI
+tyrosine-protein kinase ABL1 isoform a,Homo sapiens,NP_005148,encontrada,NCBI
+apelin receptor,Homo sapiens,NP_005152,encontrada,NCBI
+eyes absent homolog 2 isoform a,Homo sapiens,NP_005235,encontrada,NCBI
+FAD-linked sulfhydryl oxidase ALR,Homo sapiens,NP_005253,encontrada,NCBI
+heat shock protein HSP 90-alpha isoform 2,Homo sapiens,NP_005339,encontrada,NCBI
+"ATP-binding cassette sub-family B member 6, mitochondrial isoform 1",Homo sapiens,NP_005680,encontrada,NCBI
+snurportin-1,Homo sapiens,NP_005692,encontrada,NCBI
+melanocortin receptor 4,Homo sapiens,NP_005903,encontrada,NCBI
+histone-lysine N-methyltransferase 2A isoform 2 precursor,Homo sapiens,NP_005924,encontrada,NCBI
+nuclear factor erythroid 2-related factor 2 isoform 1,Homo sapiens,NP_006155,encontrada,NCBI
+peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Homo sapiens,NP_006212,encontrada,NCBI
+tumor susceptibility gene 101 protein,Homo sapiens,NP_006283,encontrada,NCBI
+GTP-binding nuclear protein Ran isoform 1,Homo sapiens,NP_006316,encontrada,NCBI
+acyl-protein thioesterase 1 isoform 1,Homo sapiens,NP_006321,encontrada,NCBI
+transforming acidic coiled-coil-containing protein 3,Homo sapiens,NP_006333,encontrada,NCBI
+DNA polymerase eta isoform 1,Homo sapiens,NP_006493,encontrada,NCBI
+nuclear receptor coactivator 2 isoform a,Homo sapiens,NP_006531,encontrada,NCBI
+C-X-C chemokine receptor type 6,Homo sapiens,NP_006555,encontrada,NCBI
+COP9 signalosome complex subunit 5,Homo sapiens,NP_006828,encontrada,NCBI
+tyrosine-protein phosphatase non-receptor type 5 isoform a,Homo sapiens,NP_008837,encontrada,NCBI
+DNA polymerase iota isoform a (long),Homo sapiens,NP_009126,encontrada,NCBI
+amino acid transporter AGP1,Saccharomyces cerevisiae,NP_009905,encontrada,NCBI
+H(+)-transporting V0 sector ATPase subunit c',Saccharomyces cerevisiae,NP_015090,encontrada,NCBI
+DNA damage-inducible transcript 3 protein,Mus musculus,NP_031863,encontrada,NCBI
+protein fosB isoform 1,Mus musculus,NP_032062,encontrada,NCBI
+interleukin-2 precursor,Mus musculus,NP_032392,encontrada,NCBI
+integrin alpha-L isoform 2 precursor,Mus musculus,NP_032426,encontrada,NCBI
+urokinase-type plasminogen activator precursor,Mus musculus,NP_032899,encontrada,NCBI
+plasminogen precursor,Mus musculus,NP_032903,encontrada,NCBI
+cAMP-dependent protein kinase catalytic subunit beta isoform 1,Mus musculus,NP_035230,encontrada,NCBI
+urokinase plasminogen activator surface receptor precursor,Mus musculus,NP_035243,encontrada,NCBI
+nuclear receptor ROR-gamma isoform 1,Mus musculus,NP_035411,encontrada,NCBI
+muscarinic acetylcholine receptor M5,Homo sapiens,NP_036257,encontrada,NCBI
+protein-arginine deiminase type-4,Homo sapiens,NP_036519,encontrada,NCBI
+14-3-3 protein gamma,Homo sapiens,NP_036611,encontrada,NCBI
+dual specificity tyrosine-phosphorylation-regulated kinase 1A,Rattus norvegicus,NP_036923,encontrada,NCBI
+rac GTPase-activating protein 1 isoform a,Homo sapiens,NP_037409,encontrada,NCBI
+cysteine protease ATG4B isoform a,Homo sapiens,NP_037457,encontrada,NCBI
+transactivating tegument protein VP16 [Human herpesvirus 1],Human alphaherpesvirus,NP_044650,encontrada,NCBI
+sentrin-specific protease 1,Homo sapiens,NP_055369,encontrada,NCBI
+geminin,Homo sapiens,NP_056979,encontrada,NCBI
+1-acylglycerol-3-phosphate O-acyltransferase ABHD5 isoform a,Homo sapiens,NP_057090,encontrada,NCBI
+protein phosphatase methylesterase 1 isoform a,Homo sapiens,NP_057231,encontrada,NCBI
+DNA polymerase kappa isoform 1,Homo sapiens,NP_057302,encontrada,NCBI
+tyrosyl-DNA phosphodiesterase 2,Homo sapiens,NP_057698,encontrada,NCBI
+Vif,Human immunodeficiency,NP_057851,encontrada,NCBI
+Vpr,Human immunodeficiency,NP_057852,encontrada,NCBI
+"Envelope surface glycoprotein gp160, precursor",Human immunodeficiency,NP_057856,encontrada,NCBI
+scavenger receptor class B member 1 isoform 1,Mus musculus,NP_058021,encontrada,NCBI
+peripheral myelin protein 22,Rattus norvegicus,NP_058733,encontrada,NCBI
+survival motor neuron protein isoform d,Homo sapiens,NP_059107,encontrada,NCBI
+cytochrome P450 3A4 isoform 1,Homo sapiens,NP_059488,encontrada,NCBI
+M-phase phosphoprotein 8,Homo sapiens,NP_059990,encontrada,NCBI
+transient receptor potential cation channel subfamily V member 1,Homo sapiens,NP_061197,encontrada,NCBI
+glycogen synthase kinase-3 alpha,Homo sapiens,NP_063937,encontrada,NCBI
+Golgi-associated PDZ and coiled-coil motif-containing protein isoform a,Homo sapiens,NP_065132,encontrada,NCBI
+NF-kappa-B inhibitor alpha,Homo sapiens,NP_065390,encontrada,NCBI
+mucolipin-1,Homo sapiens,NP_065394,encontrada,NCBI
+fibroblast growth factor 22 isoform 1 precursor,Homo sapiens,NP_065688,encontrada,NCBI
+COUP transcription factor 2 isoform a,Homo sapiens,NP_066285,encontrada,NCBI
+muscleblind-like protein 1 isoform 1,Homo sapiens,NP_066368,encontrada,NCBI
+histone acetyltransferase KAT2A isoform 1,Homo sapiens,NP_066564,encontrada,NCBI
+carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1 isoform 1,Homo sapiens,NP_067021,encontrada,NCBI
+high affinity choline transporter 1 isoform a,Homo sapiens,NP_068587,encontrada,NCBI
+DNA dC->dU-editing enzyme APOBEC-3G isoform 1,Homo sapiens,NP_068594,encontrada,NCBI
+5-hydroxytryptamine receptor 5A,Homo sapiens,NP_076917,encontrada,NCBI
+hexokinase HKDC1,Homo sapiens,NP_079406,encontrada,NCBI
+serine/threonine-protein kinase 33 isoform a,Homo sapiens,NP_112168,encontrada,NCBI
+caspase-1 isoform alpha precursor,Homo sapiens,NP_150634,encontrada,NCBI
+hypothetical protein HP1089,Helicobacter pylori,NP_207880,encontrada,NCBI
+recombination protein RecB,Helicobacter pylori,NP_208344,encontrada,NCBI
+fructose-bisphosphate aldolase,Mycobacterium tuberculosis,NP_214877,encontrada,NCBI
+"1,4-dihydroxy-2-naphthoyl-CoA synthase",Mycobacterium tuberculosis,NP_215062,encontrada,NCBI
+serine protease,Mycobacterium tuberculosis,NP_218188,encontrada,NCBI
+UDP-galactopyranose mutase,Mycobacterium tuberculosis,NP_218326,encontrada,NCBI
+hypothetical protein SA1422,Staphylococcus aureus,NP_374707,encontrada,NCBI
+D(3) dopamine receptor isoform e,Homo sapiens,NP_387512,encontrada,NCBI
+Lon protease,Escherichia coli,NP_414973,encontrada,NCBI
+nucleotide exchange factor GrpE,Escherichia coli,NP_417104,encontrada,NCBI
+endoribonuclease toxin MazF,Escherichia coli,NP_417262,encontrada,NCBI
+exodeoxyribonuclease V subunit RecD,Escherichia coli,NP_417296,encontrada,NCBI
+exodeoxyribonuclease V subunit RecB,Escherichia coli,NP_417297,encontrada,NCBI
+exodeoxyribonuclease V subunit RecC,Escherichia coli,NP_417299,encontrada,NCBI
+twin arginine protein translocation system - TatA protein,Escherichia coli,NP_418280,encontrada,NCBI
+Female germline-specific tumor suppressor gld-1,Caenorhabditis elegans,NP_492143,encontrada,NCBI
+muscarinic acetylcholine receptor M1,Rattus norvegicus,NP_542951,encontrada,NCBI
+protein phosphatase 1 regulatory subunit 15A,Rattus norvegicus,NP_598230,encontrada,NCBI
+(Lyso)-N-acylphosphatidylethanolamine lipase isoform 1,Mus musculus,NP_598837,encontrada,NCBI
+DNA repair protein RAD52 homolog isoform a,Homo sapiens,NP_602296,encontrada,NCBI
+trace amine-associated receptor 1,Homo sapiens,NP_612200,encontrada,NCBI
+bcl-2-like protein 11 isoform 1,Homo sapiens,NP_619527,encontrada,NCBI
+diacylglycerol lipase-beta isoform 1,Homo sapiens,NP_631918,encontrada,NCBI
+kallikrein-7 isoform 1 preproprotein,Homo sapiens,NP_644806,encontrada,NCBI
+lethal factor (plasmid),Bacillus anthracis,NP_652928,encontrada,NCBI
+ADP-ribosylation factor GTPase-activating protein 1,Rattus norvegicus,NP_659558,encontrada,NCBI
+sentrin-specific protease 8,Homo sapiens,NP_660205,encontrada,NCBI
+DNA dC->dU-editing enzyme APOBEC-3F isoform a,Homo sapiens,NP_660341,encontrada,NCBI
+DNA dC->dU-editing enzyme APOBEC-3A isoform a,Homo sapiens,NP_663745,encontrada,NCBI
+lamin isoform A-delta10,Homo sapiens,NP_733822,encontrada,NCBI
+Protein skinhead-1,Caenorhabditis elegans,NP_741406,encontrada,NCBI
+5-hydroxytryptamine receptor 2A,Mus musculus,NP_766400,encontrada,NCBI
+anoctamin-1 isoform 1,Mus musculus,NP_848757,encontrada,NCBI
+nuclear receptor coactivator 3 isoform a,Homo sapiens,NP_858045,encontrada,NCBI
+pyruvate kinase PKM isoform b,Homo sapiens,NP_872270,encontrada,NCBI
+kelch-like ECH-associated protein 1,Homo sapiens,NP_987096,encontrada,NCBI
+chaperonin GroEL,Methanococcus maripaludis,NP_988635,encontrada,NCBI
+neuropeptide S receptor isoform A,Homo sapiens,NP_997055,encontrada,NCBI
+cAMP-dependent protein kinase catalytic subunit beta isoform 3,Homo sapiens,NP_997461,encontrada,NCBI
+Toll-like receptor 4,Homo sapiens,O00206,encontrada,NCBI
+Torsin-1A,Homo sapiens,O14656,encontrada,NCBI
+Solute carrier family 22 member 1,Homo sapiens,O15245,encontrada,NCBI
+Polyunsaturated fatty acid lipoxygenase ALOX15B,Homo sapiens,O15296,encontrada,NCBI
+ATP-binding cassette sub-family C member 3,Homo sapiens,O15438,encontrada,NCBI
+ATP-binding cassette sub-family C member 4,Homo sapiens,O15439,encontrada,NCBI
+Solute carrier organic anion transporter family member 1A4,Rattus norvegicus,O35913,encontrada,NCBI
+Solute carrier family 22 member 6,Rattus norvegicus,O35956,encontrada,NCBI
+Motilin receptor,Homo sapiens,O43193,encontrada,NCBI
+Adenylate cyclase type 9,Homo sapiens,O60503,encontrada,NCBI
+Tyrosine-protein kinase JAK2,Homo sapiens,O60674,encontrada,NCBI
+Glucose transporter,Leishmania mexicana,O61059,encontrada,NCBI
+Bile salt export pump,Rattus norvegicus,O70127,encontrada,NCBI
+5-hydroxytryptamine receptor 4,Cavia porcellus,O70528,encontrada,NCBI
+Microphthalmia-associated transcription factor,Homo sapiens,O75030,encontrada,NCBI
+Probable G-protein coupled receptor 32,Homo sapiens,O75388,encontrada,NCBI
+Nuclear receptor subfamily 1 group I member 2,Homo sapiens,O75469,encontrada,NCBI
+"cGMP-specific 3',5'-cyclic phosphodiesterase",Homo sapiens,O76074,encontrada,NCBI
+PglD,Campylobacter jejuni,O86157,encontrada,NCBI
+Solute carrier organic anion transporter family member 1A5,Rattus norvegicus,O88397,encontrada,NCBI
+ATP-binding cassette sub-family C member 3,Rattus norvegicus,O88563,encontrada,NCBI
+Organic anion transporter 3,Mus musculus,O88909,encontrada,NCBI
+"Thioredoxin reductase 1, cytoplasmic",Rattus norvegicus,O89049,encontrada,NCBI
+Solute carrier organic anion transporter family member 2B1,Homo sapiens,O94956,encontrada,NCBI
+Bile salt export pump,Homo sapiens,O95342,encontrada,NCBI
+Rap guanine nucleotide exchange factor 3,Homo sapiens,O95398,encontrada,NCBI
+Histone-lysine N-methyltransferase NSD2,Homo sapiens,O96028,encontrada,NCBI
+Hexose transporter 1,Plasmodium falciparum,O97467,encontrada,NCBI
+Dihydrofolate reductase,Homo sapiens,P00374,encontrada,NCBI
+Dihydrofolate reductase,Mus musculus,P00375,encontrada,NCBI
+Dihydrofolate reductase,Bos taurus,P00376,encontrada,NCBI
+Dihydrofolate reductase,Gallus gallus,P00378,encontrada,NCBI
+Dihydrofolate reductase,Enterococcus faecium,P00380,encontrada,NCBI
+Dihydrofolate reductase,Lacticaseibacillus casei,P00381,encontrada,NCBI
+Thymidylate synthase,Lacticaseibacillus casei,P00469,encontrada,NCBI
+Epidermal growth factor receptor,Homo sapiens,P00533,encontrada,NCBI
+Papain,Carica papaya,P00784,encontrada,NCBI
+Carbonic anhydrase 2,Homo sapiens,P00918,encontrada,NCBI
+Interferon beta,Homo sapiens,P01574,encontrada,NCBI
+Albumin,Homo sapiens,P02768,encontrada,NCBI
+Genome polyprotein (Foot-and-mouth disease virus (strain A12)),Foot-and-mouth disease,P03308,encontrada,NCBI
+Estrogen receptor,Homo sapiens,P03372,encontrada,NCBI
+Interstitial collagenase,Homo sapiens,P03956,encontrada,NCBI
+3-hydroxy-3-methylglutaryl-coenzyme A reductase,Homo sapiens,P04035,encontrada,NCBI
+Glucocorticoid receptor,Homo sapiens,P04150,encontrada,NCBI
+Receptor tyrosine-protein kinase erbB-2,Homo sapiens,P04626,encontrada,NCBI
+Cellular tumor antigen p53,Homo sapiens,P04637,encontrada,NCBI
+Thymidylate synthase,Homo sapiens,P04818,encontrada,NCBI
+Amyloid-beta precursor protein,Homo sapiens,P05067,encontrada,NCBI
+Cytochrome P450 1A2,Homo sapiens,P05177,encontrada,NCBI
+Cytochrome P450 2E1,Homo sapiens,P05181,encontrada,NCBI
+Tyrosine-protein kinase Lck,Homo sapiens,P06239,encontrada,NCBI
+Tyrosine-protein kinase Fyn,Homo sapiens,P06241,encontrada,NCBI
+Progesterone receptor,Homo sapiens,P06401,encontrada,NCBI
+Glutathione peroxidase 1,Homo sapiens,P07203,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Leishmania major,P07382,encontrada,NCBI
+Beta-2 adrenergic receptor,Homo sapiens,P07550,encontrada,NCBI
+Thymidylate synthase,Mus musculus,P07607,encontrada,NCBI
+Glycine receptor subunit alpha-1,Rattus norvegicus,P07727,encontrada,NCBI
+Aldo-keto reductase family 1 member B1,Rattus norvegicus,P07943,encontrada,NCBI
+Muscarinic acetylcholine receptor M2,Homo sapiens,P08172,encontrada,NCBI
+Muscarinic acetylcholine receptor M4,Homo sapiens,P08173,encontrada,NCBI
+ATP-dependent translocase ABCB1,Homo sapiens,P08183,encontrada,NCBI
+Neutrophil elastase,Homo sapiens,P08246,encontrada,NCBI
+Cathepsin G,Homo sapiens,P08311,encontrada,NCBI
+Receptor-type tyrosine-protein phosphatase C,Homo sapiens,P08575,encontrada,NCBI
+Beta-1 adrenergic receptor,Homo sapiens,P08588,encontrada,NCBI
+Cytochrome P450 3A4,Homo sapiens,P08684,encontrada,NCBI
+Guanine nucleotide-binding protein G(i) subunit alpha-3,Rattus norvegicus,P08753,encontrada,NCBI
+5-hydroxytryptamine receptor 1A,Homo sapiens,P08908,encontrada,NCBI
+Muscarinic acetylcholine receptor M5,Homo sapiens,P08912,encontrada,NCBI
+Alpha-2A adrenergic receptor,Homo sapiens,P08913,encontrada,NCBI
+High mobility group protein B1,Homo sapiens,P09429,encontrada,NCBI
+Poly [ADP-ribose] polymerase 1,Homo sapiens,P09874,encontrada,NCBI
+Nucleoprotein (Lymphocytic choriomeningitis virus (strain Armstrong)),Lymphocytic choriomeningitis,P09992,encontrada,NCBI
+Dihydrofolate reductase,Staphylococcus aureus,P0A017,encontrada,NCBI
+Thymidylate synthase,Escherichia coli,P0A884,encontrada,NCBI
+Dihydrofolate reductase,Escherichia coli,P0ABQ4,encontrada,NCBI
+tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,Escherichia coli,P0AF67,encontrada,NCBI
+Adenosine receptor A3,Homo sapiens,P0DMS8,encontrada,NCBI
+Replicase polyprotein 1ab,Severe acute,P0DTD1,encontrada,NCBI
+Cytochrome P450 2D6,Homo sapiens,P10635,encontrada,NCBI
+Phenylethanolamine N-methyltransferase,Homo sapiens,P11086,encontrada,NCBI
+"Solute carrier family 2, facilitated glucose transporter member 1",Homo sapiens,P11166,encontrada,NCBI
+Muscarinic acetylcholine receptor M1,Homo sapiens,P11229,encontrada,NCBI
+Glucose-6-phosphate 1-dehydrogenase,Homo sapiens,P11413,encontrada,NCBI
+Cytochrome P450 2A6,Homo sapiens,P11509,encontrada,NCBI
+Cytochrome P450 2C9,Homo sapiens,P11712,encontrada,NCBI
+Polyunsaturated fatty acid lipoxygenase ALOX15,Oryctolagus cuniculus,P12530,encontrada,NCBI
+Angiotensin-converting enzyme,Oryctolagus cuniculus,P12822,encontrada,NCBI
+Nucleoprotein,Lassa virus,P13699,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Plasmodium falciparum,P13922,encontrada,NCBI
+Beta-3 adrenergic receptor,Homo sapiens,P13945,encontrada,NCBI
+Folate receptor beta,Homo sapiens,P14207,encontrada,NCBI
+D(2) dopamine receptor,Homo sapiens,P14416,encontrada,NCBI
+Matrix metalloproteinase-9,Homo sapiens,P14780,encontrada,NCBI
+Insulin receptor,Rattus norvegicus,P15127,encontrada,NCBI
+Androgen receptor,Rattus norvegicus,P15207,encontrada,NCBI
+Folate receptor alpha,Homo sapiens,P15328,encontrada,NCBI
+Alpha-1B adrenergic receptor,Rattus norvegicus,P15823,encontrada,NCBI
+Dihydrofolate reductase,Pneumocystis carinii,P16184,encontrada,NCBI
+Protein kinase C alpha type,Homo sapiens,P17252,encontrada,NCBI
+Vascular endothelial growth factor receptor 1,Homo sapiens,P17948,encontrada,NCBI
+Polyunsaturated fatty acid lipoxygenase ALOX12,Homo sapiens,P18054,encontrada,NCBI
+Alpha-2B adrenergic receptor,Homo sapiens,P18089,encontrada,NCBI
+Alpha-2C adrenergic receptor,Homo sapiens,P18825,encontrada,NCBI
+5-hydroxytryptamine receptor 1A,Rattus norvegicus,P19327,encontrada,NCBI
+Muscarinic acetylcholine receptor M3,Homo sapiens,P20309,encontrada,NCBI
+Glycine receptor subunit beta,Rattus norvegicus,P20781,encontrada,NCBI
+Amine oxidase [flavin-containing] A,Homo sapiens,P21397,encontrada,NCBI
+Substance-K receptor,Homo sapiens,P21452,encontrada,NCBI
+Cannabinoid receptor 1,Homo sapiens,P21554,encontrada,NCBI
+Nucleoprotein (Rift valley fever virus (STRAIN ZH-548 M12)),Rift valley,P21700,encontrada,NCBI
+D(1A) dopamine receptor,Homo sapiens,P21728,encontrada,NCBI
+Thromboxane A2 receptor,Homo sapiens,P21731,encontrada,NCBI
+D(4) dopamine receptor,Homo sapiens,P21917,encontrada,NCBI
+Catechol O-methyltransferase,Homo sapiens,P21964,encontrada,NCBI
+Voltage-dependent L-type calcium channel subunit alpha-1C,Rattus norvegicus,P22002,encontrada,NCBI
+Trifunctional purine biosynthetic protein adenosine-3,Homo sapiens,P22102,encontrada,NCBI
+Acetylcholinesterase,Homo sapiens,P22303,encontrada,NCBI
+Glycine receptor subunit alpha-2,Rattus norvegicus,P22771,encontrada,NCBI
+Prostaglandin G/H synthase 1,Homo sapiens,P23219,encontrada,NCBI
+Tyrosine-protein kinase JAK1,Homo sapiens,P23458,encontrada,NCBI
+Sodium-dependent noradrenaline transporter,Homo sapiens,P23975,encontrada,NCBI
+Glycine receptor subunit alpha-3,Rattus norvegicus,P24524,encontrada,NCBI
+Endothelin receptor type B,Homo sapiens,P24530,encontrada,NCBI
+Thromboxane-A synthase,Homo sapiens,P24557,encontrada,NCBI
+Low molecular weight phosphotyrosine protein phosphatase,Homo sapiens,P24666,encontrada,NCBI
+Histamine H2 receptor,Homo sapiens,P25021,encontrada,NCBI
+C-X-C chemokine receptor type 1,Homo sapiens,P25024,encontrada,NCBI
+C-X-C chemokine receptor type 2,Homo sapiens,P25025,encontrada,NCBI
+Alpha-1D adrenergic receptor,Homo sapiens,P25100,encontrada,NCBI
+Endothelin-1 receptor,Homo sapiens,P25101,encontrada,NCBI
+Substance-P receptor,Homo sapiens,P25103,encontrada,NCBI
+Platelet-activating factor receptor,Homo sapiens,P25105,encontrada,NCBI
+Neuropeptide Y receptor type 1,Homo sapiens,P25929,encontrada,NCBI
+Amine oxidase [flavin-containing] B,Homo sapiens,P27338,encontrada,NCBI
+Mitogen-activated protein kinase 3,Homo sapiens,P27361,encontrada,NCBI
+5-hydroxytryptamine receptor 2A,Homo sapiens,P28223,encontrada,NCBI
+5-hydroxytryptamine receptor 2C,Homo sapiens,P28335,encontrada,NCBI
+Mitogen-activated protein kinase 1,Homo sapiens,P28482,encontrada,NCBI
+5-hydroxytryptamine receptor 1B,Rattus norvegicus,P28564,encontrada,NCBI
+Adenosine receptor A2a,Homo sapiens,P29274,encontrada,NCBI
+Caspase-1,Homo sapiens,P29466,encontrada,NCBI
+Nitric oxide synthase 1,Rattus norvegicus,P29476,encontrada,NCBI
+"Nitric oxide synthase, inducible",Mus musculus,P29477,encontrada,NCBI
+Non-receptor tyrosine-protein kinase TYK2,Homo sapiens,P29597,encontrada,NCBI
+B2 bradykinin receptor,Homo sapiens,P30411,encontrada,NCBI
+Vasopressin V2 receptor,Homo sapiens,P30518,encontrada,NCBI
+Adenosine receptor A1,Homo sapiens,P30542,encontrada,NCBI
+Type-1 angiotensin II receptor,Homo sapiens,P30556,encontrada,NCBI
+Calcitonin receptor,Homo sapiens,P30988,encontrada,NCBI
+Neurotensin receptor type 1,Homo sapiens,P30989,encontrada,NCBI
+Sodium-dependent serotonin transporter,Homo sapiens,P31645,encontrada,NCBI
+RAC-alpha serine/threonine-protein kinase,Homo sapiens,P31749,encontrada,NCBI
+Bifunctional purine biosynthesis protein ATIC,Homo sapiens,P31939,encontrada,NCBI
+Cholecystokinin receptor type A,Homo sapiens,P32238,encontrada,NCBI
+Gastrin/cholecystokinin type B receptor,Homo sapiens,P32239,encontrada,NCBI
+Vasoactive intestinal polypeptide receptor 1,Homo sapiens,P32241,encontrada,NCBI
+Melanocortin receptor 4,Homo sapiens,P32245,encontrada,NCBI
+Melanocortin receptor 5,Homo sapiens,P33032,encontrada,NCBI
+Cytochrome P450 2C19,Homo sapiens,P33261,encontrada,NCBI
+Multidrug resistance-associated protein 1,Homo sapiens,P33527,encontrada,NCBI
+"Serine hydroxymethyltransferase, cytosolic",Homo sapiens,P34896,encontrada,NCBI
+"Serine hydroxymethyltransferase, mitochondrial",Homo sapiens,P34897,encontrada,NCBI
+Thyrotropin-releasing hormone receptor,Homo sapiens,P34981,encontrada,NCBI
+Corticotropin-releasing factor receptor 1,Homo sapiens,P34998,encontrada,NCBI
+Alpha-1A adrenergic receptor,Homo sapiens,P35348,encontrada,NCBI
+Prostaglandin G/H synthase 2,Homo sapiens,P35354,encontrada,NCBI
+Histamine H1 receptor,Homo sapiens,P35367,encontrada,NCBI
+Mu-type opioid receptor,Homo sapiens,P35372,encontrada,NCBI
+"Glutamate receptor ionotropic, NMDA 1",Rattus norvegicus,P35439,encontrada,NCBI
+D(3) dopamine receptor,Homo sapiens,P35462,encontrada,NCBI
+RNA-binding protein FUS,Homo sapiens,P35637,encontrada,NCBI
+Phospholipid hydroperoxide glutathione peroxidase GPX4,Homo sapiens,P36969,encontrada,NCBI
+Vasopressin V1a receptor,Homo sapiens,P37288,encontrada,NCBI
+Alpha-synuclein,Homo sapiens,P37840,encontrada,NCBI
+Breast cancer type 1 susceptibility protein,Homo sapiens,P38398,encontrada,NCBI
+Nicotinamide N-methyltransferase,Homo sapiens,P40261,encontrada,NCBI
+Delta-type opioid receptor,Homo sapiens,P41143,encontrada,NCBI
+Kappa-type opioid receptor,Homo sapiens,P41145,encontrada,NCBI
+Reduced folate transporter,Homo sapiens,P41440,encontrada,NCBI
+5-hydroxytryptamine receptor 2B,Homo sapiens,P41595,encontrada,NCBI
+C-C chemokine receptor type 2,Homo sapiens,P41597,encontrada,NCBI
+Melanocortin receptor 3,Homo sapiens,P41968,encontrada,NCBI
+Huntingtin,Homo sapiens,P42858,encontrada,NCBI
+Alpha-1A adrenergic receptor,Rattus norvegicus,P43140,encontrada,NCBI
+Tyrosine-protein kinase SYK,Homo sapiens,P43405,encontrada,NCBI
+Neuronal acetylcholine receptor subunit alpha-4,Homo sapiens,P43681,encontrada,NCBI
+Thymidylate synthase,Rattus norvegicus,P45352,encontrada,NCBI
+5-hydroxytryptamine receptor 3A,Homo sapiens,P46098,encontrada,NCBI
+B1 bradykinin receptor,Homo sapiens,P46663,encontrada,NCBI
+Solute carrier organic anion transporter family member 1A1,Rattus norvegicus,P46720,encontrada,NCBI
+Solute carrier organic anion transporter family member 1A2,Homo sapiens,P46721,encontrada,NCBI
+Glucagon receptor,Homo sapiens,P47871,encontrada,NCBI
+Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,Homo sapiens,P48426,encontrada,NCBI
+Gastric inhibitory polypeptide receptor,Homo sapiens,P48546,encontrada,NCBI
+"Folylpolyglutamate synthase, mitochondrial",Mus musculus,P48760,encontrada,NCBI
+Neuropeptide Y receptor type 2,Homo sapiens,P49146,encontrada,NCBI
+Type-2 angiotensin II receptor,Homo sapiens,P50052,encontrada,NCBI
+Histamine N-methyltransferase,Homo sapiens,P50135,encontrada,NCBI
+5-hydroxytryptamine receptor 6,Homo sapiens,P50406,encontrada,NCBI
+C-C chemokine receptor type 4,Homo sapiens,P51679,encontrada,NCBI
+C-C chemokine receptor type 5,Homo sapiens,P51681,encontrada,NCBI
+"6-phosphogluconate dehydrogenase, decarboxylating",Homo sapiens,P52209,encontrada,NCBI
+Tyrosine-protein kinase JAK3,Homo sapiens,P52333,encontrada,NCBI
+Monocarboxylate transporter 1,Rattus norvegicus,P53987,encontrada,NCBI
+Caspase-7,Homo sapiens,P55210,encontrada,NCBI
+Spike glycoprotein,Severe acute,P59594,encontrada,NCBI
+Gamma-aminobutyric acid receptor subunit alpha-1,Rattus norvegicus,P62813,encontrada,NCBI
+Guanine nucleotide-binding protein G(s) subunit alpha isoforms short,Homo sapiens,P63092,encontrada,NCBI
+Solute carrier organic anion transporter family member 1A3,Rattus norvegicus,P70502,encontrada,NCBI
+Inositol monophosphatase 1,Rattus norvegicus,P97697,encontrada,NCBI
+Salicylate synthase,Mycobacterium tuberculosis,P9WFX0,encontrada,NCBI
+Dihydrofolate reductase,Mycobacterium tuberculosis,P9WNX1,encontrada,NCBI
+Heat shock factor protein 1,Homo sapiens,Q00613,encontrada,NCBI
+Pteridine reductase 1,Leishmania major,Q01782,encontrada,NCBI
+Sodium-dependent dopamine transporter,Homo sapiens,Q01959,encontrada,NCBI
+Voltage-dependent N-type calcium channel subunit alpha-1B,Rattus norvegicus,Q02294,encontrada,NCBI
+Parathyroid hormone/parathyroid hormone-related peptide receptor,Homo sapiens,Q03431,encontrada,NCBI
+"Folylpolyglutamate synthase, mitochondrial",Homo sapiens,Q05932,encontrada,NCBI
+HTRA1 protein,Homo sapiens,Q05DJ8,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Toxoplasma gondii,Q07422,encontrada,NCBI
+Peroxisome proliferator-activated receptor alpha,Homo sapiens,Q07869,encontrada,NCBI
+Protein phosphatase 3 catalytic subunit alpha,Homo sapiens,Q08209,encontrada,NCBI
+"3',5'-cyclic-AMP phosphodiesterase 4D",Homo sapiens,Q08499,encontrada,NCBI
+Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,Q12809,encontrada,NCBI
+TAR DNA-binding protein 43,Homo sapiens,Q13148,encontrada,NCBI
+Corticotropin-releasing factor receptor 2,Homo sapiens,Q13324,encontrada,NCBI
+Guanidinoacetate N-methyltransferase,Homo sapiens,Q14353,encontrada,NCBI
+"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",Homo sapiens,Q14432,encontrada,NCBI
+Glycine N-methyltransferase,Homo sapiens,Q14749,encontrada,NCBI
+Protein disulfide-isomerase A6,Homo sapiens,Q15084,encontrada,NCBI
+Mitogen-activated protein kinase 14,Homo sapiens,Q16539,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Cryptosporidium parvum,Q27552,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Trypanosoma brucei,Q27783,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Trypanosoma cruzi,Q27793,encontrada,NCBI
+Solute carrier family 22 member 6,Homo sapiens,Q4U2R8,encontrada,NCBI
+Solute carrier family 22 member 7,Rattus norvegicus,Q5RLM2,encontrada,NCBI
+ATP-binding cassette sub-family C member 10,Homo sapiens,Q5T3U5,encontrada,NCBI
+Mitogen-activated protein kinase 10,Mus musculus,Q61831,encontrada,NCBI
+ATP-binding cassette sub-family C member 2,Rattus norvegicus,Q63120,encontrada,NCBI
+Prostaglandin G/H synthase 1,Rattus norvegicus,Q63921,encontrada,NCBI
+Trifunctional purine biosynthetic protein adenosine-3,Mus musculus,Q64737,encontrada,NCBI
+Nuclear receptor subfamily 3 group C member 3,Bos taurus,Q690N0,encontrada,NCBI
+Solute carrier family 22 member 20,Mus musculus,Q80UJ1,encontrada,NCBI
+Dihydrofolate reductase,Bacillus anthracis,Q81R22,encontrada,NCBI
+Cyclic GMP-AMP synthase,Mus musculus,Q8C6L5,encontrada,NCBI
+Polyprotein P1234,Chikungunya virus,Q8JUX6,encontrada,NCBI
+Cyclic GMP-AMP synthase,Homo sapiens,Q8N884,encontrada,NCBI
+Organic anion transporter 3,Homo sapiens,Q8TCC7,encontrada,NCBI
+Alanine aminotransferase 2,Homo sapiens,Q8TD30,encontrada,NCBI
+G-protein coupled receptor 151,Homo sapiens,Q8TDV0,encontrada,NCBI
+Solute carrier family 22 member 6,Mus musculus,Q8VC69,encontrada,NCBI
+Rap guanine nucleotide exchange factor 4,Homo sapiens,Q8WZA2,encontrada,NCBI
+Dihydrofolate reductase,Rattus norvegicus,Q920D2,encontrada,NCBI
+Inositol hexakisphosphate kinase 1,Homo sapiens,Q92551,encontrada,NCBI
+Ubiquitin carboxyl-terminal hydrolase BAP1,Homo sapiens,Q92560,encontrada,NCBI
+Estrogen receptor beta,Homo sapiens,Q92731,encontrada,NCBI
+Growth hormone secretagogue receptor type 1,Homo sapiens,Q92847,encontrada,NCBI
+ATP-binding cassette sub-family C member 2,Homo sapiens,Q92887,encontrada,NCBI
+ATP-binding cassette sub-family C member 11,Homo sapiens,Q96J66,encontrada,NCBI
+Proton-coupled folate transporter,Homo sapiens,Q96NT5,encontrada,NCBI
+Multidrug resistance associated protein,Homo sapiens,Q96QA9,encontrada,NCBI
+ATPase family AAA domain-containing protein 5,Homo sapiens,Q96QE3,encontrada,NCBI
+Ataxin-2,Homo sapiens,Q99700,encontrada,NCBI
+Methionine synthase,Homo sapiens,Q99707,encontrada,NCBI
+Sigma non-opioid intracellular receptor 1,Homo sapiens,Q99720,encontrada,NCBI
+BRCA1-associated RING domain protein 1,Homo sapiens,Q99728,encontrada,NCBI
+Equilibrative nucleoside transporter 1,Homo sapiens,Q99808,encontrada,NCBI
+Phosphatidylinositol 4-kinase type 2-alpha,Homo sapiens,Q9BTU6,encontrada,NCBI
+N-terminal Xaa-Pro-Lys N-methyltransferase 1,Homo sapiens,Q9BV86,encontrada,NCBI
+Single-stranded DNA cytosine deaminase,Homo sapiens,Q9GZX7,encontrada,NCBI
+Sialate O-acetylesterase,Homo sapiens,Q9HAT2,encontrada,NCBI
+Relaxin receptor 1,Homo sapiens,Q9HBX9,encontrada,NCBI
+Solute carrier organic anion transporter family member 1B3,Homo sapiens,Q9NPD5,encontrada,NCBI
+Sialin,Homo sapiens,Q9NRA2,encontrada,NCBI
+Solute carrier family 22 member 11,Homo sapiens,Q9NSA0,encontrada,NCBI
+"NAD-dependent protein deacylase sirtuin-5, mitochondrial",Homo sapiens,Q9NXA8,encontrada,NCBI
+Solute carrier organic anion transporter family member 1C1,Homo sapiens,Q9NYB5,encontrada,NCBI
+Solute carrier organic anion transporter family member 1B2,Rattus norvegicus,Q9QZX8,encontrada,NCBI
+Organic anion transporter 3,Rattus norvegicus,Q9R1U7,encontrada,NCBI
+Solute carrier organic anion transporter family member 3A1,Homo sapiens,Q9UIG8,encontrada,NCBI
+Protein-arginine deiminase type-4,Homo sapiens,Q9UM07,encontrada,NCBI
+Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens,Q9UNQ0,encontrada,NCBI
+Cysteinyl leukotriene receptor 1,Homo sapiens,Q9Y271,encontrada,NCBI
+Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,Homo sapiens,Q9Y3Z3,encontrada,NCBI
+Histamine H3 receptor,Homo sapiens,Q9Y5N1,encontrada,NCBI
+Solute carrier family 22 member 7,Homo sapiens,Q9Y694,encontrada,NCBI
+Solute carrier organic anion transporter family member 1B1,Homo sapiens,Q9Y6L6,encontrada,NCBI
+phosphoglycerate kinase,Trypanosoma brucei,XP_001218773,encontrada,NCBI
+mitogen-activated protein kinase 2,Plasmodium falciparum,XP_001347818,encontrada,NCBI
+"HSP40, subfamily A [Plasmodium falciparum 3D7]",Plasmodium falciparum,XP_001348533,encontrada,NCBI
+"heat shock protein 90, putative",Plasmodium falciparum,XP_001348591,encontrada,NCBI
+calcium-dependent protein kinase 4,Plasmodium falciparum,XP_001349078,encontrada,NCBI
+protein kinase 7,Plasmodium falciparum,XP_001349639,encontrada,NCBI
+calcium-dependent protein kinase 1,Plasmodium falciparum,XP_001349680,encontrada,NCBI
+L-lactate dehydrogenase,Plasmodium falciparum,XP_001349989,encontrada,NCBI
+protein kinase 6,Plasmodium falciparum,XP_001350099,encontrada,NCBI
+"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Leishmania major,XP_001687258,encontrada,NCBI
+hypothetical protein CAALFM_CR05890CA,Candida albicans,XP_711691,encontrada,NCBI
+likely tRNA 2'-phosphotransferase,Candida albicans,XP_717710,encontrada,NCBI
+H3 histone acetyltransferase,Candida albicans,XP_718648,encontrada,NCBI
+"methionyl-tRNA synthetase, putative",Trypanosoma brucei,XP_822407,encontrada,NCBI
+ATP-dependent phosphofructokinase,Trypanosoma brucei,XP_843920,encontrada,NCBI
+enterobactin synthase subunit E,Acinetobacter baumannii,YP_001085402,encontrada,NCBI
+toxin B,Clostridioides difficile,YP_001087135,encontrada,NCBI
+ORF73,Human gammaherpesvirus,YP_001129431,encontrada,NCBI
+botulinum neurotoxin type A,Clostridium botulinum,YP_001253342,encontrada,NCBI
+MarR family regulatory protein,Staphylococcus aureus,YP_001331689,encontrada,NCBI
+protein PvdQ,Pseudomonas aeruginosa,YP_002440506,encontrada,NCBI
+large T antigen,Betapolyomavirus macacae,YP_003708382,encontrada,NCBI
+gamma-glutamyltranspeptidase (plasmid),Bacillus anthracis,YP_016573,encontrada,NCBI
+putative polyprotein,Crimean-Congo hemorrhagic,YP_325663,encontrada,NCBI
+protein Zta,human gammaherpesvirus,YP_401673,encontrada,NCBI
+"botulinum neurotoxin type F, BoNT/F",Clostridium botulinum,ZP_02619427,encontrada,NCBI
+PPM1D protein,Homo sapiens,AAH42418,encontrada,NCBI
+"FMDV polyprotein, partial",Foot-and-mouth disease,AAA42670,encontrada,NCBI
+"Chain A, Calcium and integrin-binding protein 1",Homo sapiens,2LM5_A,encontrada,NCBI
+,,578162,encontrada,NCBI
+N-terminal Xaa-Pro-Lys N-methyltransferase 1 isoform a,Homo sapiens,NP_001273728,encontrada,NCBI
+cytochrome P450 2D6,Homo sapiens,ANW61984,encontrada,NCBI
+"cytochrome P450 2C9, partial",Homo sapiens,QLI62812,encontrada,NCBI
+"cytochrome P450, family 2, subfamily C, polypeptide 19",Homo sapiens,AAV41877,encontrada,NCBI
+cytochrome P450 family 2 subfamily C polypeptide 9,Homo sapiens,AGS09764,encontrada,NCBI
+Dihydrofolate reductase,Oryctolagus cuniculus,C1JLF0,não encontrada,
+Thymidylate synthase,Escherichia coli,C3SWJ7,não encontrada,
+Thymidylate synthase,Escherichia coli,E2QDN0,não encontrada,
+Nuclear factor (erythroid-derived 2)-like 2,Homo sapiens,AAH11558,encontrada,NCBI
+Gonadotropin-releasing hormone receptor,Homo sapiens,AAI13547,encontrada,NCBI
+KISS1 receptor,Homo sapiens,ACG60651,encontrada,NCBI
+5-hydroxytryptamine (serotonin) receptor 2A,Homo sapiens,AAH96839,encontrada,NCBI
+cAMP responsive element binding protein 1,Homo sapiens,AAV38316,encontrada,NCBI
+tumor suppressor p53,Homo sapiens,AFN61604,encontrada,NCBI
+cytochrome P450 3A7,Homo sapiens,NP_000756,encontrada,NCBI
+cellular tumor antigen p53 isoform d,Homo sapiens,NP_001119587,encontrada,NCBI
+Protein deacetylase HDAC6,Homo sapiens,Q9UBN7,encontrada,NCBI
+Botulinum neurotoxin type A,Clostridium botulinum,P0DPI0,encontrada,NCBI
+Amine oxidase [flavin-containing] A,Mus musculus,Q64133,encontrada,NCBI
+Amine oxidase [flavin-containing] B,Mus musculus,Q8BW75,encontrada,NCBI
+"hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)",Homo sapiens,AAP88778,encontrada,NCBI
+hemoglobin subunit beta,Homo sapiens,NP_000509,encontrada,NCBI
+glutathione-S-transferase,Schistosoma japonicum,AAB03573,encontrada,NCBI
+cyclic AMP receptor protein,Vibrio cholerae,AAF95755,encontrada,NCBI
+hypothetical protein VC_A0002,Vibrio cholerae,AAF95916,encontrada,NCBI
+Photinus pyralis luciferase,Shuttle vector,ABM67533,encontrada,NCBI
+histone-lysine N-methyltransferase NSD2 isoform 1,Homo sapiens,NP_001035889,encontrada,NCBI
+Tat,Human immunodeficiency,NP_057853,encontrada,NCBI
+anion-binding protein,Staphylococcus aureus,NP_371243,encontrada,NCBI
+Glycoprotein hormones alpha chain,Homo sapiens,P01215,encontrada,NCBI
+"Pteridine reductase, putative",Trypanosoma brucei,Q581W1,encontrada,NCBI
+Bifunctional dihydrofolate reductase-thymidylate synthase,Trypanosoma brucei,Q582G3,encontrada,NCBI
+MULTISPECIES: oxygen response regulator transcription factor FixJ,Burkholderia,WP_006493245,encontrada,NCBI
+oxygen sensor histidine kinase FixL,Burkholderia dolosa,WP_045552426,encontrada,NCBI
+"Chain A, Autoinducer 2-binding periplasmic protein luxP",Vibrio harveyi,1ZHH_A,encontrada,NCBI
+"Chain B, Autoinducer 2 sensor kinase/phosphatase luxQ",Vibrio harveyi,1ZHH_B,encontrada,NCBI
+putative potassium channel subunit,Homo sapiens,AAA62473,encontrada,NCBI
+alternatively spliced Trp4,Mus musculus,AAC05178,encontrada,NCBI
+dopamine transporter,Homo sapiens,AAC50179,encontrada,NCBI
+VEGF-C,Mus musculus,AAC52984,encontrada,NCBI
+Hsf1 protein,Mus musculus,AAH94064,encontrada,NCBI
+Neuropilin 2,Homo sapiens,AAI43239,encontrada,NCBI
+autoinducer synthetase family protein,Burkholderia mallei,AAU46702,encontrada,NCBI
+"LuxS, partial",Vibrio harveyi,ABY84639,encontrada,NCBI
+heat shock protein 90,Candida albicans,CAA56931,encontrada,NCBI
+RAD51,Homo sapiens,CAG38796,encontrada,NCBI
+"karyopherin alpha 2 (RAG cohort 1, importin alpha 1), isoform CRA_b",Homo sapiens,EAW89041,encontrada,NCBI
+potassium voltage-gated channel subfamily KQT member 1 isoform 1,Homo sapiens,NP_000209,encontrada,NCBI
+glycogen synthase kinase-3 beta isoform 1,Homo sapiens,NP_002084,encontrada,NCBI
+calcium-activated potassium channel subunit alpha-1 isoform b,Homo sapiens,NP_002238,encontrada,NCBI
+calcium-activated potassium channel subunit beta-1,Homo sapiens,NP_004128,encontrada,NCBI
+mitogen-activated protein kinase kinase kinase kinase 2 isoform 1,Homo sapiens,NP_004570,encontrada,NCBI
+regulator of G-protein signaling 4 isoform 2,Homo sapiens,NP_005604,encontrada,NCBI
+calcium-activated potassium channel subunit beta-2,Homo sapiens,NP_005823,encontrada,NCBI
+CAAX prenyl protease,Saccharomyces cerevisiae,NP_014001,encontrada,NCBI
+inward rectifier potassium channel 2,Mus musculus,NP_032451,encontrada,NCBI
+short transient receptor potential channel 6 isoform 1,Mus musculus,NP_038866,encontrada,NCBI
+potassium channel subfamily K member 9,Homo sapiens,NP_057685,encontrada,NCBI
+voltage-dependent T-type calcium channel subunit alpha-1H isoform a,Homo sapiens,NP_066921,encontrada,NCBI
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase/glucosamine-1-phosphate N-acetyltransferase,Mycobacterium tuberculosis,NP_215534,encontrada,NCBI
+recombinase A,Mycobacterium tuberculosis,NP_217253,encontrada,NCBI
+streptokinase A precursor,Streptococcus pyogenes,NP_269944,encontrada,NCBI
+potassium voltage-gated channel subfamily KQT member 2,Rattus norvegicus,NP_579856,encontrada,NCBI
+mitogen-activated protein kinase kinase kinase 3 isoform 1,Homo sapiens,NP_976226,encontrada,NCBI
+Transmembrane GTPase fzo-1,Caenorhabditis elegans,Q23424,encontrada,NCBI
+Leucine-rich repeat-containing protein 26,Homo sapiens,Q2I0M4,encontrada,NCBI
+Zinc finger protein mex-5,Caenorhabditis elegans,Q9XUB2,encontrada,NCBI
+chaperonin-containing TCP-1 beta subunit homolog,Homo sapiens,AAC98906,encontrada,NCBI
+thioredoxin glutathione reductase,Schistosoma mansoni,AAK85233,encontrada,NCBI
+bromodomain adjacent to zinc finger domain 2B,Homo sapiens,BAA89212,encontrada,NCBI
+P53,Homo sapiens,BAC16799,encontrada,NCBI
+serine-protein kinase ATM isoform a,Homo sapiens,NP_000042,encontrada,NCBI
+lethal(3)malignant brain tumor-like protein 1 isoform I,Homo sapiens,NP_056293,encontrada,NCBI
+relaxin receptor 1 isoform 1,Homo sapiens,NP_067647,encontrada,NCBI
+ORF1ab polyprotein,SARS coronavirus,NP_828849,encontrada,NCBI
+"Chain A, Dihydrofolate reductase",Bacillus anthracis,2QK8_A,encontrada,NCBI
+"Chain A, Dihydrofolate reductase",Homo sapiens,3EIG_A,encontrada,NCBI
+"Chain A, Anti-Methotrexate CDR1-3 Graft VHH",Lama glama,3QXT_A,encontrada,NCBI
+"Chain A, Anti-Methotrexate CDR1-4 Graft VHH",Lama glama,3QXV_A,encontrada,NCBI
+72 kDa type IV collagenase,Homo sapiens,P08253,encontrada,NCBI
+Matrilysin,Homo sapiens,P09237,encontrada,NCBI
+Matrix metalloproteinase-14,Homo sapiens,P50281,encontrada,NCBI
+Bifunctional purine biosynthesis protein ATIC,Mus musculus,Q9CWJ9,encontrada,NCBI
+Glutamate carboxypeptidase 2,Rattus norvegicus,P70627,encontrada,NCBI
+Dihydrofolate reductase,Streptococcus pneumoniae,Q54801,encontrada,NCBI
+"Chain A, Glutamate carboxypeptidase 2",Homo sapiens,3BI1_A,encontrada,NCBI
+Xaa-Pro dipeptidase,Homo sapiens,P12955,encontrada,NCBI
+Amine oxidase [flavin-containing] A,Bos taurus,P21398,encontrada,NCBI
+Amine oxidase [flavin-containing] B,Bos taurus,P56560,encontrada,NCBI
