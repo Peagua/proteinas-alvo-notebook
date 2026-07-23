@@ -1,14 +1,5 @@
 #!/bin/bash
 
-# Script para fazer o blast das proteínas referência para proteôma de Leishmania amazonensis
-
-# Lembrando que é necessário fazer a indexação do proteoma (fasta) de referência antes de rodar esse script
-# makeblastdb \
-#   -in (onde ta o fasta do proteoma de referência)
-#   -dbtype prot
-#   -out (pasta de output)/(nome do arquivo) Ex: db_lla/Leishmania_amazonensis
-#   -title "(título do proteoma)" Ex: "Leishmania amazonensis proteome"
-
 echo "Script para realizar BLAST das proteínas referência encontradas."
 echo ""
 
