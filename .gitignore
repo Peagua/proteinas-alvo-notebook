@@ -1,1 +1,9 @@
 .venv/
+bioassays/
+blast_filtrado/
+blast_results/
+fastas_hits/
+fastas_melhores_hits/
+fastas_ref/
+relatorios_busca/
+smiles/
