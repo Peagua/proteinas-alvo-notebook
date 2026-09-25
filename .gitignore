@@ -6,4 +6,5 @@ fastas_hits/
 fastas_melhores_hits/
 fastas_ref/
 relatorios_busca/
-smiles/
+smiles/*
+index/
