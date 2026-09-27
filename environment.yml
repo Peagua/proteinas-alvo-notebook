@@ -1,0 +1,24 @@
+name: pipeline-proteinas-alvo
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+
+  # Versão de Python usada
+  - python=3.12
+
+  # Blast (pelo terminal)
+  - blast=2.16
+
+  # Dependencias python
+  - pandas=3.0.1
+  - tqdm=4.67.3
+  - biopython=1.86
+  - requests=2.32.5
+  - ipykernel=7.2.0  
+  - pip
+  - pip:
+      - rcsb-api==1.5.0
+
